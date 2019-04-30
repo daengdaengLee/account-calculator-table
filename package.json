@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/daengdaengLee/account-calculator-table#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.3",
+    "serve": "^11.0.0"
   }
 }
