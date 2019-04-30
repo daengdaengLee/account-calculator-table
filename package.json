@@ -1,0 +1,26 @@
+{
+  "name": "account-calculator-table",
+  "version": "0.1.0",
+  "description": "account calculator table app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daengdaengLee/account-calculator-table.git"
+  },
+  "keywords": [
+    "account",
+    "calculator"
+  ],
+  "author": "daengdaenglee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daengdaengLee/account-calculator-table/issues"
+  },
+  "homepage": "https://github.com/daengdaengLee/account-calculator-table#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
