@@ -6,6 +6,7 @@
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html --out-dir build",
+    "serve": "serve -s build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
