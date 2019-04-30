@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/daengdaengLee/account-calculator-table/issues"
   },
-  "homepage": "https://github.com/daengdaengLee/account-calculator-table#readme"
+  "homepage": "https://github.com/daengdaengLee/account-calculator-table#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
